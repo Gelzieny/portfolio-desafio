@@ -1,6 +1,8 @@
 # 💼 Portfólio • Desafio Discover - Rocketseat Community
 
-Este projeto é uma página de portfólio desenvolvida como parte do **Desafio Discover - Community** da Rocketseat. A proposta foi transformar o layout disponível no Figma em uma página web funcional, aplicando os conhecimentos adquiridos em HTML, CSS e JavaScript.
+Este projeto é uma página de portfólio desenvolvida como parte do **Desafio Discover - Community** da Rocketseat. A proposta foi transformar o layout disponível no Figma em uma página web funcional, utilizando tecnologias modernas como **Vite.js**, **React**, **TypeScript** e **Tailwind CSS**.
+
+---
 
 ## ✨ Funcionalidades
 
@@ -10,7 +12,18 @@ Este projeto é uma página de portfólio desenvolvida como parte do **Desafio D
 - Design responsivo para diferentes tamanhos de tela
 - Alternância de tema (modo claro/escuro) *(opcional, se implementado)*
 
-## 🛠 Tecnologias utilizadas
+---
+
+## 📸 Preview do Projeto
+
+<p align="center">
+  <img src=".github/img/home.png" alt="Home do projeto" width="400"/>
+  <img src=".github/img/image.png" alt="Home Filme" width="400"/>
+</p>
+
+---
+
+## 🛠 Tecnologias Utilizadas
 
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -18,20 +31,23 @@ Este projeto é uma página de portfólio desenvolvida como parte do **Desafio D
 - [Tailwind CSS](https://tailwindcss.com/) v4
 - [Lucide React](https://lucide.dev/)
 
+---
 
 ## 📄 Instruções do Desafio
 
-Confira os detalhes completos do desafio [clicando aqui](https://efficient-sloth-d85.notion.site/Desafio-Portfolio-1d3db21e654941f5872aece5fcc6bcc6).
+Confira os detalhes completos do desafio:  
+🔗 [Acessar desafio no Notion](https://efficient-sloth-d85.notion.site/Desafio-Portfolio-1d3db21e654941f5872aece5fcc6bcc6)
 
+---
 
-## 📸 Layout
+## 🎨 Layout
 
-O design original pode ser visualizado no Figma:
-
+O design original pode ser visualizado no Figma:  
 🔗 [Acessar layout no Figma](https://www.figma.com/design/l5zKjaRxYJ23tU3j3HQzX2/Portfolio-%E2%80%A2-Desafio-Discover--Community---Copy-?node-id=0-1&p=f&t=EZfA54y3O5ezH2Ve-0)
 
+---
 
-## 📂 Estrutura do projeto
+## 📂 Estrutura do Projeto
 
 ```
 📁 portfolio-vite/
@@ -47,17 +63,23 @@ O design original pode ser visualizado no Figma:
 └── 📄 README.md
 ``` 
 
-## 🚀 Como executar o projeto
 
-### Pré-requisitos
+---
 
-<p align="justify">Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
+## 🚀 Como Executar o Projeto
+
+### ✅ Pré-requisitos
+
+Você precisará ter instalado em sua máquina:
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,nodejs,vite,vscode" />
 </a>
 
-### Clone o repositório
+---
+
+### 📥 Clone o repositório
+
 
 ```bash
 # Clone este repositório
