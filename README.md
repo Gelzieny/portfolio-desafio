@@ -16,10 +16,8 @@ Este projeto é uma página de portfólio desenvolvida como parte do **Desafio D
 
 ## 📸 Preview do Projeto
 
-<p align="center">
-  <img src=".github/img/home.png" alt="Home do projeto" width="400"/>
-  <img src=".github/img/image.png" alt="Home Filme" width="400"/>
-</p>
+<img src=".github/img/portfolio.png" alt="Home do projeto"/>
+
 
 ---
 

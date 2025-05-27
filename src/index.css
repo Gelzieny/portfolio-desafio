@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300;400;500;700&display=swap");
+
+@import "tailwindcss";
+
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  html{
+    @apply transition-colors duration-300;  
+    font-family: "Merriweather Sans", sans-serif;
+  }
+  body{
+    @apply bg-[#22212C] text-[#837E9F];
+  }
+}
+
+.box-shadow {
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
