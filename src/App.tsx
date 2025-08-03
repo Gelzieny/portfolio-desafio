@@ -1,4 +1,4 @@
-import { BriefcaseBusiness, Folder, GitBranch, Github, Globe2Icon, Linkedin, Mail, MapPin, Star, Twitch, Twitter } from "lucide-react";
+import { BriefcaseBusiness, Folder, GitBranch, Github, Globe2Icon, Linkedin, Mail, MapPin, Star, Twitter } from "lucide-react";
 import { useEffect, useState } from "react";
 
 interface GithubRepository {
@@ -62,7 +62,7 @@ const EDUCACAO_ITENS = [
 ]
 
 export function App() {
-  const [repos, setRepos] = useState<GithubRepository[]>([]);
+  const [[], setRepos] = useState<GithubRepository[]>([]);
   
   useEffect(() => {
     fetch('https://api.github.com/users/gelzieny/repos')
